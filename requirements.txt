@@ -1,0 +1,8 @@
+streamlit
+groq
+pydantic
+python-dotenv
+pandas
+fastapi
+uvicorn
+pytest
